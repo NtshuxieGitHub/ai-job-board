@@ -1,0 +1,1 @@
+ALTER TABLE "job_listing_applications" RENAME COLUMN "covreLetter" TO "coverLetter";
